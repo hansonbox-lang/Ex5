@@ -31,6 +31,8 @@ jhgjhgjgjhgjg<br>
 
 [講義1](doc/預訂高鐵車票會使用到的文字.txt)
 
+[講義2](預訂高鐵車票會使用到的文字.txt)
+
 ![咖啡](pic/coffee.JPG)
 
 [demo](https://youtu.be/CLaIwJRqCFs?si=00YzNWN9OwMUMx7K)
