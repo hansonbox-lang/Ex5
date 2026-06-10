@@ -5,6 +5,7 @@
 ##### 會員登入系統
 ###### 會員登入系統hh
 
+
 # 李韓生
 ## 李韓生
 ### 李韓生
@@ -31,6 +32,8 @@ jhgjhgjgjhgjg<br>
 [google](http://www.google.com)
 
 [yahoo](http://tw.yahoo.com)
+
+[yahoo](https://tw.news.yahoo.com/)
 
 [講義](doc/6_JavaEEApplication.pdf)
 
