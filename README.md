@@ -26,9 +26,11 @@ jhgjhgjgjhgjg<br>
 
 [yahoo](http://tw.yahoo.com)
 
-
 [講義](doc/6_JavaEEApplication.pdf)
 
+[講義1](doc/預訂高鐵車票會使用到的文字.txt)
+
+[講義2](預訂高鐵車票會使用到的文字.txt)
 
 ![咖啡](pic/coffee.JPG)
 
